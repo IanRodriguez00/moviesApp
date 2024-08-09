@@ -24,7 +24,7 @@ export class AxiosAdapter implements HttpAdapter {
         return data;
 
     } catch (error) {
-        throw new Error(`Error fetching get: ${ url }`);
+        throw new Error(`Error fetching get: ${url}`);
     }
   }
 }
