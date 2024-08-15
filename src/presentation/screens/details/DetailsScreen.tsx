@@ -17,7 +17,9 @@ export const DetailsScreen = ({route}: Props) => {
 
   return (
     <View>
-      <Text>DetailsScreen</Text>
+   {/*Header */}
+
+   {/*Details */}
     </View>
   );
 };
