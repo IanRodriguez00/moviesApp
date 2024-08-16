@@ -1,3 +1,4 @@
+import { THE_MOVIE_DB_KEY } from '@env';
 import { AxiosAdapter } from './http/axios.adapter';
 
 
